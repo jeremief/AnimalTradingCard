@@ -1,7 +1,7 @@
 ANIMAL TRADING CARD
 ===================
 
-[otter](./otter.jpg)
+[otter](./otter.jpg?raw=True)
 
 
 1. Description
