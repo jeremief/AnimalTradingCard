@@ -1,7 +1,7 @@
 ANIMAL TRADING CARD
 ===================
 
-[otter](./otter.jpg?raw=true “Hovering text” =WIDTHxHEIGHT)
+[otter](./otter.jpg)
 
 
 1. Description
